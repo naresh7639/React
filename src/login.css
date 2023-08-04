@@ -1,0 +1,19 @@
+.modal {
+  background-color: #0f0f0fd6;
+  padding: 20px;
+  position: absolute;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.x{
+    border: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #7439db;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+}

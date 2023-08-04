@@ -1,0 +1,10 @@
+.sideBar{
+width: 400px;
+    position: absolute;
+    left: 0;
+    background-color: white;
+    height: 100%;
+}
+#App{
+    display: block;
+}
